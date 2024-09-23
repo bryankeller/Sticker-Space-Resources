@@ -1,1 +1,3 @@
-# Stickify-App-Resources
+# Stickify for visionOS
+
+[Contact support](mailto:kellerbryan19@gmail.com)
